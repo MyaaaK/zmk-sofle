@@ -60,7 +60,7 @@ layers:
   - $$mdi:keyboard-space$$
   - layer1
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - '2'
+  - {t: Gui+LANG1, h: '2'}
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
   - PRINTSCREEN
